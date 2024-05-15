@@ -1,9 +1,10 @@
 body {
-  color: #222;
-  font-family: sans-serif;
+  color: black;
+  font-family: 'Outfit', sans-serif;
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
+  background-color: #f8f8f8;
 }
 
 header {
@@ -12,8 +13,10 @@ header {
 }
 
 footer {
-  border-top: 1px solid #222;
+  border-top: 2px solid #222;
   margin-top: 1rem;
+  background-color: #343a40;
+  color: blue;
 }
 
 a {

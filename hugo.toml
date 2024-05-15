@@ -1,4 +1,4 @@
 baseURL = 'https://svenmaso.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sven Maso`s Homepage'
 theme = 'svenmaso'
